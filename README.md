@@ -15,16 +15,16 @@ To run this project, you need to have Python and Jupyter Notebook installed. You
 pip install pandas numpy matplotlib seaborn
 ```
 ## Usage
-Clone the repository:
+1. Clone the repository:
 ``` bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
 cd YOUR_REPOSITORY_NAME
 ```
-Open the Jupyter notebook:
+2. Open the Jupyter notebook:
 ``` bash
 jupyter notebook EDA_on_Click-on-Adv.ipynb
 ```
-Run the cells in the notebook to see the analysis.
+3. Run the cells in the notebook to see the analysis.
 ## Dataset
 
 The `advertising.csv` file contains the following columns:
